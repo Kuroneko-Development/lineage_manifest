@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="shironeko"
+		fetch="https://github.com/Shironeko-Development/"/>
+	
+	<project path="device/xiaomi/angelica" name="android_device_xiaomi_angelica" remote="shironeko" revision="lineage_tiramisu29"/>
+	<project path="vendor/xiaomi/angelica" name="android_vendor_xiaomi_angelica" remote="shironeko" revision="tiramisu29"/>
+	
+</manifest>
